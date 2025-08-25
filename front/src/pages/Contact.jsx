@@ -25,7 +25,7 @@ const Contact = () => {
 
     try {
       setLoading(true);
-      const response = await Axios.post("http://localhost:8080/contact", {
+      const response = await Axios.post("https://portfolio-back-ghtt.onrender.com/contact", {
         name,
         email,
         message,
@@ -192,3 +192,4 @@ const Contact = () => {
 };
 
 export default Contact;
+
