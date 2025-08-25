@@ -1,0 +1,63 @@
+[
+  {
+    "title": "AI-Powered Career and Health Chatbot",
+    "importance": "The AI Chatbot can provide instant career and health advice, saving people time and money.",
+    "description": "An Conversational AI tool that provides personalized advice and guidance on career and mental health topics.",
+    "tech": [
+      "React",
+      "Node.js",
+      "GROQ_API_KEY",
+      "Tailwind CSS",
+      "MongoDB",
+      "Rander.com"
+    ],
+    "link": "https://ai-bot-front.onrender.com",
+    "image": "/project_images/1.png"
+  },
+  {
+    "title": "AI-Powered SEO Blog Writer and Code Generator",
+    "importance": "The SEO Blog Writer and Code Generator can help businesses create better online content and improve their websites.",
+    "description": "An AI-powered tool that generates SEO-optimized blog content and clean, efficient code tailored to user requirements",
+    "tech": [
+      "React",
+      "Node.js",
+      "GROQ_API_KEY",
+      "Tailwind CSS",
+      "MongoDB",
+      "Rander.com"
+    ],
+    "link": "https://ai-blog-writerandcode-generator-front.onrender.com/",
+    "image": "/project_images/2.png"
+  },
+  {
+    "title": "AI-Powered Islamic Finance Advisor for Dubai",
+    "importance": "The Islamic Finance Advisor can help people manage their money in a way that aligns with their beliefs.",
+    "description": "A tool that provides personalized financial advice and recommendations based on Islamic principles, tailored to Dubai market.",
+    "tech": [
+      "React",
+      "Node.js",
+      "GROQ_API_KEY",
+      "Tailwind CSS",
+      "MongoDB",
+      "Rander.com"
+    ],
+    "link": "https://islamic-ai-front.onrender.com/get-started",
+    "image": "/project_images/3.png"
+  },
+  {
+    "title": "AI-Powered Legal Advice Assistant for Dubai",
+    "importance": "The Legal Advice Assistant can provide quick answers to legal questions.",
+    "description": "An AI-Powered tool that provides legal information and assistance based on Dubai law.",
+    "tech": [
+      "React",
+      "Node.js",
+      "@huggingface/inference",
+      "langchain",
+      "Tailwind CSS",
+      "MongoDB",
+      "Rander.com"
+    ],
+    "link": "https://legal-advisor-assistant-front.onrender.com",
+    "image": "/project_images/4.png"
+  }
+]
