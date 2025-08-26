@@ -26,6 +26,12 @@ const Projects = () => {
           </p>
         </div>
 
+        <p className="mb-2 text-[12px] text-gray-500 dark:text-gray-400">
+          <strong>Note:</strong> Performance may be slower at times as these
+          apps are running on free-tier services with the limit of 48K tokens
+          each.
+        </p>
+
         {/* Projects Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {projects.map((project, index) => (
