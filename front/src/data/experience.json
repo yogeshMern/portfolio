@@ -1,1 +1,71 @@
+{
+  "professionalExperience": [
+    {
+      "role": "MERN Stack Developer",
+      "company": "Systellar Technologies",
+      "period": "July 4, 2024 – Feb 14, 2025",
+      "duration": "7 months",
+      "description": "Worked as a MERN Stack Developer, building scalable web applications with modern technologies."
+    },
+    {
+      "role": "MERN Stack Developer",
+      "company": "Shunya Ekai Technology",
+      "period": "Mar 2, 2023 – Apr 30, 2024",
+      "duration": "14 months",
+      "description": "Developed and maintained full-stack applications with React, Node.js, Express, and MongoDB."
+    },
+    {
+      "role": "Web Designer (Internship)",
+      "company": "Acil Technologies Pvt Ltd",
+      "period": "June, 2022 – Dec, 2022",
+      "duration": "6 months",
+      "description": "Designed responsive web pages and assisted in front-end development tasks."
+    }
+  ],
 
+  "productionProjects": [
+    {
+      "title": "Praesentia | AI-Powered HRMS",
+      "description": "Spearheaded the development of the Riot Arena Website from concept to launch, ensuring alignment with client needs and industry benchmarks.",
+      "technologies": ["React.js", "Node.js", "MySQL", "Express.js"]
+    },
+    {
+      "title": "Mark Me (HRMS)",
+      "description": "An HRMS application used to manage employee details and daily attendance. Features include punch in/out, attendance regularization, and manager approvals.",
+      "technologies": ["React.js", "Node.js", "MySQL", "Express.js"]
+    }
+  ],
+
+  "personalProjects": [
+    {
+      "title": "Crypto Project",
+      "description": "Built a crypto exchange platform with secure transactions and payment integration.",
+      "technologies": [
+        "JavaScript",
+        "React.js",
+        "Tailwind CSS",
+        "Node.js",
+        "MongoDB",
+        "MySQL",
+        "Express.js",
+        "Razorpay"
+      ],
+      "stage": "In Progress"
+    },
+    {
+      "title": "E-commerce Project",
+      "description": "Developed a full-fledged e-commerce website with product listings, cart, payments, and order management.",
+      "technologies": [
+        "JavaScript",
+        "React.js",
+        "Tailwind CSS",
+        "Node.js",
+        "MongoDB",
+        "MySQL",
+        "Express.js",
+        "Razorpay"
+      ],
+      "stage": "In Progress"
+    }
+  ]
+}
