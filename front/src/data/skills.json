@@ -1,1 +1,41 @@
-
+[
+  {
+    "title": "Prompt Engineering",
+    "skills": [
+      { "name": "AI Conversation Design", "level": 90 },
+      { "name": "GPT Model Fine-tuning", "level": 85 },
+      { "name": "Prompt Optimization", "level": 95 },
+      { "name": "Context Management", "level": 88 }
+    ]
+  },
+  {
+    "title": "Frontend Development",
+    "skills": [
+      { "name": "React.js", "level": 92 },
+      { "name": "Next.js", "level": 85 },
+      { "name": "Tailwind CSS", "level": 95 },
+      { "name": "JavaScript", "level": 90 },
+      { "name": "TypeScript", "level": 90 }
+    ]
+  },
+  {
+    "title": "Backend Development",
+    "skills": [
+      { "name": "Node.js", "level": 88 },
+      { "name": "Express.js", "level": 85 },
+      { "name": "MongoDB/Mysql", "level": 83 },
+      { "name": "RESTful APIs", "level": 90 },
+      { "name": "JavaScript", "level": 90 },
+      { "name": "TypeScript", "level": 90 }
+    ]
+  },
+  {
+    "title": "AI Model Integration",
+    "skills": [
+      { "name": "chatGPT", "level": 100 },
+      { "name": "Groq API", "level": 100 },
+      { "name": "Hugging Face", "level": 100 },
+      { "name": "LangChain", "level": 100 }
+    ]
+  }
+]
