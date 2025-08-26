@@ -1,34 +1,6 @@
-const Skills = () => {
-  const skillCategories = [
-    {
-      title: "Prompt Engineering",
-      skills: [
-        { name: "AI Conversation Design", level: 90 },
-        { name: "GPT Model Fine-tuning", level: 85 },
-        { name: "Prompt Optimization", level: 95 },
-        { name: "Context Management", level: 88 },
-      ],
-    },
-    {
-      title: "Frontend Development",
-      skills: [
-        { name: "React.js", level: 92 },
-        { name: "Next.js", level: 85 },
-        { name: "Tailwind CSS", level: 95 },
-        { name: "JavaScript/TypeScript", level: 90 },
-      ],
-    },
-    {
-      title: "Backend Development",
-      skills: [
-        { name: "Node.js", level: 88 },
-        { name: "Express.js", level: 85 },
-        { name: "MongoDB/Mysql", level: 83 },
-        { name: "RESTful APIs", level: 90 },
-      ],
-    },
-  ];
+import skillCategories from "../data/skills.json";
 
+const Skills = () => {
   return (
     <section
       id="skills"
@@ -86,3 +58,4 @@ const Skills = () => {
 };
 
 export default Skills;
+
